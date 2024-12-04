@@ -1,3 +1,1 @@
-import time
-print(time.time())
-print("Test")
+# Tu bedzie appka w Flasku
